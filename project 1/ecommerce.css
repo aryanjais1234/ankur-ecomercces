@@ -1,0 +1,186 @@
+ .logo{ width:5cm;
+    height:3cm ;
+  
+float: left;}
+body{background-color: rgb(43, 17, 43);
+background-repeat: no-repeat;
+background-position:center;
+background-size: cover;}
+.navback{background-image: url(cover.png);}
+
+ .img{
+    background-image: url(cover.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ;
+    height: auto;
+    margin-top: 14px;
+}
+.ankurtshirt{width:6cm ;
+    height: 6cm;
+    float:right;
+}
+
+main .maincontainer ,.sub{color:black;  font-size: medium; font-size: bold; text-align: center;word-spacing: 2px ; font-size:larger;
+}
+main .h2{color:white;  font-style:inherit; font-weight: bolder;
+text-shadow: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+main .h2:hover{color: #c4ff00; text-shadow: 5px 3px red;
+text-decoration: blue underline;}
+main div .booknow{margin-top: 100px;}
+main div .booknow:hover{ border:solid  rgb(255, 230, 0) 2px;
+border-radius: 20px; background-color:red;
+font-family: cursive;
+font-weight: bolder;
+text-decoration:red underline; }
+.productheading{ color: white;
+font-size: large;
+font-weight: bolder;
+text-align: center;
+line-height: 20px;
+padding: 15px;}
+.rowmargin{margin-top:10px;
+    margin-bottom: 10px;
+}
+.card1{
+}
+.card1img{height:auto;width: auto;
+}
+.card1{
+    background-color:gainsboro; 
+    
+}
+.card1body{text-align: center;
+
+}
+.card1text{text-size-adjust:initial;
+font-weight: bolder;}
+.card1para{
+
+}
+.seemore{margin: 10px;}
+.product .exp{background-color: blueviolet;
+    color:white;
+    padding: 5px;
+    border: 25px;
+    border-radius:5px;
+    text-align: center;
+    font-size: large;
+    
+    
+}
+.vivoimg{height:38ex}
+.keypoint{padding: 50px;}
+.keyhightlight{
+    color: white;
+    font-size:35px;
+    text-align: center;
+    padding: 10px;
+
+}
+.keypoint .keycontainer{
+    display: flex;
+
+}
+.keypoint .keycontainer .key_content{
+    width: 40%;
+    padding: 20px;
+    float: left;
+
+}
+.keypoint .keycontainer .key_content li{
+    margin: 10px;
+    padding: 10px;
+    border-left: 2px solid white;
+color:white;
+text-align: left;
+box-shadow: 0px 3px 65px 0px rgba(0,0,0,.15);
+list-style-type: disc;
+
+}
+.keypoint .keycontainer .keyimg{width: 40%;
+float: right;
+margin-left: 100px;}
+
+
+.team h2{ color:white;
+font-size: x-large;
+text-align: center;
+padding: 10px;
+text-transform: uppercase;}
+.team h2{font-size: 30px;
+font-weight: bolder;
+text-decoration: underline;
+}
+.team .team_container .team_video{
+    width: 40%;
+    padding: 20px;
+
+}
+ .team_video video{
+    width:25em;
+   height: 15em;
+   outline:none;
+    border:5px solid white ;
+}
+.team_content_heading{color: white;
+font-weight:bolder;
+text-align: center;
+padding: 10px;
+text-transform: uppercase;}
+.team_content p{color: white;
+    word-spacing: 0.3rem;
+    text-align: center;
+}
+.project_team{list-style:none;}
+.rowfooter{ color: white;}
+.pages{text-align: center;
+margin-bottom: 10px;
+color:white;
+}
+.pages h3{color: white;
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+}
+    .pages a{text-align: center;}
+    .doc{text-align: center;
+    margin-bottom: 10px;}
+    .doc h3{color: white;
+        font-size: 28px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+        .doc a{
+        word-spacing: 2px;}
+        .socialmedia{text-align: center;
+            margin-bottom: 10px;}
+        .socialmedia h3{color: white;
+            font-size: 28px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+            .socialmedia a{
+            word-spacing: 2px;}
+            .contact{text-align: center;
+                margin-bottom: 10px;}
+            .contact h3{color: white;
+                font-size: 28px;
+                text-align: center;
+                text-transform: uppercase;
+            }
+                .contact a{
+                word-spacing: 2px;
+            margin: 5px;}
+    
+
+.copyright{float: right;
+margin-right:15px;
+padding-right: 10px;
+color: white;
+font-size: 13px; 
+}
+hr{background-color: white;}
+
+
